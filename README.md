@@ -2,13 +2,13 @@
 - 👀 I’m interested in programming
   especially web, application, and AI
 - 🌱 language I learned:
-  - HTML, CSS, now I am leaning JS
+  - HTML, CSS, JS
   - C++
   - java (oop - javafx - ...)
 - 📫 How to reach me:
   - mohammed.aljablai@gmail.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact:
+- ⚡ other abilities:
   - I am good at graphic design
   - I am learning business management in addition marketing.
 
