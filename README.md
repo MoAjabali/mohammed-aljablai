@@ -6,6 +6,8 @@
  - **HTML, CSS, JS**
  - **C++**
  - **java (oop - javafx - ...)**
+ - **SQL (Oracle SQL)**
+ - **Assembly**
 
 ## 📫 How to reach me:
 - **mohammed.aljablai@gmail.com**
