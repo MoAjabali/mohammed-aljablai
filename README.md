@@ -1,18 +1,18 @@
 # 👋 Hi, I’m @mohammed-aljablai
 ## 👨🏻‍💻 l am a programmer:
-- **front end devolper**
+- **Front end developer**
  
 ## 🌱 language I learned:
  - **HTML, CSS, JS**
  - **C++**
- - **java (oop - javafx - ...)**
+ - **Java (OOP - JavaFx - ...)**
  - **SQL (Oracle SQL)**
  - **Assembly**
 
 ## 📫 How to reach me:
 - **mohammed.aljablai@gmail.com**
 
-## ⚡ other abilities:
+## ⚡ Other abilities:
   - **I am good at graphic design**
   - **I am learning business management in addition marketing.**
 
