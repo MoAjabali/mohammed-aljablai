@@ -1,8 +1,5 @@
-<div style="display: flex; width: 100%; flex-wrap: nowrap; justify-content: center;">
+<p align="center"> <img src="./logo-r.svg"/> </p>
 
-<b align="center"> ![My logo](./logo-r.svg) </b>
-
-</div>
 <h1 align="center">Hi, I am Mohammed Aljablai</h1>
 
 <p align="center">
@@ -66,7 +63,7 @@ frontend developer for now 💻, more in the future ⌛.
 
 ### 📱 Social Media
 
-<div style="display: flex; width: 100%; flex-wrap: wrap; justify-content: center; gap: 8px;">
+<div style="display: flex; width: 100%; flex-wrap: wrap; gap: 8px;" align="center">
 
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammed.aljablai)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammed.aljablai)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammed_Aljablai)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967770201264)[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/mohammed-aljablai)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-aljablai)
