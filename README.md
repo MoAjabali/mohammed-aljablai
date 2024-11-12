@@ -15,7 +15,7 @@ Here you will find some of my Work and projects and Open source project I work w
 ### My work: -->
 
 <h2 align="center" id="about"> About Me </h2>
-Hello, I am Mohammed Al-Jablai from Yemen . I am a CS (Computer Science) student in National University 🎓 in Yemen. I am currently living in my country. and learning and develop.
+Hello, I am Mohammed Al-Jablai from Yemen 🇾🇪. I am a CS (Computer Science) student in National University 🎓 in Yemen 🇾🇪. I am currently living in my country. and learning and develop.
 
 ### 👨🏻‍💻 I am
 frontend developer for now 💻, more in the future ⌛.
