@@ -1,4 +1,6 @@
-<p align="center"> <img src="./logo-r.svg"/> </p>
+<p align="center">
+<a href="https://github.com/mohammed-aljablai"> <img src="./logo-r.svg"/> </a>
+</p>
 
 <h1 align="center">Hi, I am Mohammed Aljablai</h1>
 
@@ -61,7 +63,7 @@ frontend developer for now 💻, more in the future ⌛.
 ### 📧 My contact info:
 - **mohammed.aljablai@gmail.com**
 
-### 📱 Social Media
+### 📱 Social Media:
 
 <div style="display: flex; width: 100%; flex-wrap: wrap; gap: 8px;" align="center">
 
