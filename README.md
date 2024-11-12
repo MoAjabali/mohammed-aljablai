@@ -15,12 +15,12 @@ Here you will find some of my Work and projects and Open source project I work w
 ### My work: -->
 
 <h2 align="center" id="about"> About Me </h2>
-Hello, I am Mohammed Al-Jablai from Yemen. I am a CS (Computer Science) student in National University in Yemen. I currently live in my country. and learning and develope Programs
+Hello, I am Mohammed Al-Jablai from Yemen . I am a CS (Computer Science) student in National University 🎓 in Yemen. I am currently living in my country. and learning and develop.
 
 ### 👨🏻‍💻 I am
 frontend developer for now 💻, more in the future ⌛.
 
-### 🌱 Programming language I learned:
+### 🌱 Programming language I learned
 - **HTML, CSS**
   ```HTML 
   <h1>Hello There</h1> 
@@ -54,18 +54,18 @@ frontend developer for now 💻, more in the future ⌛.
   ret
   msg db 'Hello There'
   ```
-### ⚡ Other abilities:
+### ⚡ Other abilities
   - **I am good at graphic design**
   - **I am learning business management in addition marketing.**
 
-<h2 align="center" id="contact"> where to find Me </h2>
+<h2 align="center" id="contact"> Where to find Me </h2>
 
-### 📧 My contact info:
+### 📧 My contact info
 - **mohammed.aljablai@gmail.com**
 
-### 📱 Social Media:
+### 📱 Social Media
 
-<div style="display: flex; width: 100%; flex-wrap: wrap; gap: 8px;" align="center">
+<div  align="center">
 
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammed.aljablai)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammed.aljablai)[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohammed_Aljablai)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967770201264)[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/mohammed-aljablai)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-aljablai)
