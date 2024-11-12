@@ -36,8 +36,10 @@
 ### 🙌 Shoutout to My Friends
 Special thanks to Allah first all the thanks for him, then my family, and for those who supported me, and those who educated me and help me in my education.
 
-![GitHub Followers](https://img.shields.io/github/followers/mohammed-aljablai?label=Followers&style=social) ![Profile Views](https://komarev.com/ghpvc/?username=mohammed-aljablai&color=blueviolet&style=flat-square)
-
+<p align="center">
+<img alt="GitHub Followers" src="https://img.shields.io/github/followers/mohammed-aljablai?label=Followers&style=social"/>
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mohammed-aljablai&color=blueviolet&style=flat-square"/>
+</p>
 
 <h2 align="center" id="about"> About Me </h2>
 
