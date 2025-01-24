@@ -46,14 +46,25 @@ Special thanks to Allah first all the thanks for him, then my family, and for th
 Hello! I'm Mohammed Al-Jablai from Yemen 🇾🇪, a computer science student at the National University in Yemen 🎓. I'm dedicated to expanding my knowledge in technology and coding, with a focus on **frontend development** 👨🏻‍💻 now and aspirations to delve into full-stack development in the future.
 
 ### 🌱 Programming language I learned
-- **HTML, CSS:** Core languages for building and styling web pages.
+
+- **HTML, CSS:** Core languages for building and 
+styling web pages.
+  **Advanced:** **PugJs, Scss, Frameworks** 
   ```HTML 
   <h1>Hello There</h1> 
   ```
   ```CSS
   /* CSS style sheet language ,No Output in it 😅 */
   ```
+  ```pug
+  h1 Hello There
+  ```
+  ```scss
+  // scss style sheet language ,No Output in it 😅
+  ```
+
 - **JS:** I use JavaScript to add interactivity and dynamic content to web pages.
+**Advanced:** **React** 
   ```JS
   console.log("Hello There")
   ```
@@ -66,10 +77,20 @@ Hello! I'm Mohammed Al-Jablai from Yemen 🇾🇪, a computer science student at
   ```Java
   System.out.println("Hello There").
   ```
-- **SQL:** For database management and querying.
+
+- **SQL & PLSQL:** For database management and querying.
   ```SQL
   -- It is Database language, no output in SQL 😅
   ```
+  ```plsql
+  set serveroutput on
+
+  begin 
+    dbms_output.put_line('Hello there');
+  end;
+  /
+  ```
+
 - **Assembly:** Gained experience with low-level programming and hardware interfacing.  
   ```Assembly
   org 100h
@@ -79,6 +100,24 @@ Hello! I'm Mohammed Al-Jablai from Yemen 🇾🇪, a computer science student at
   ret
   msg db 'Hello There'
   ```
+
+### 💪🏻 Some of my Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/oracle-logo.png" alt="PL/SQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Chrome" width="40" height="40"/>
+<img src="https://img.icons8.com/ios-filled/50/console.png" alt="Terminal" width="40" height="40"/>
+
 ### ⚡ Additional Skills
 - **Graphic Design**: Experienced in Photoshop, Illustrator, and Figma for creating visual content.
 - **Business Management & Marketing**: Currently learning strategies and practices for effective project management and digital marketing.
