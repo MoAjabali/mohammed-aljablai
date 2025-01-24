@@ -68,7 +68,7 @@ styling web pages.
   ```JS
   console.log("Hello There")
   ```
-- **C++:** My go-to for understanding data structures, algorithms, and programming fundamentals.
+- **C++ & python:** My go-to for understanding data structures, algorithms, and programming fundamentals.
   ```C++
   cout << "Hello There";
   // or std:cout<<""Hello There";
